@@ -6,8 +6,8 @@
 
 💞️ I’m looking to collaborate with developers, designers, and enthusiasts who share a passion for building powerful and scalable e-commerce platforms. If you have expertise or an interest in the following areas, I’d love to connect and work with you:
 
-Backend Development :- using Django or other web frameworks (Node.js, Flask, etc.)
-Frontend Development :- using React, Vue.js, or Angular
+Backend Development :- using Django or other web frameworks
+Frontend Development :- using React, React native.
 API Integrations such as third-party payment gateways, shipping services, and external APIs
 Testing & Debugging to ensure high-quality, bug-free code (unit tests, integration tests, etc.)
 UI/UX Design to create engaging and user-friendly interfaces
