@@ -13,7 +13,7 @@ Testing & Debugging to ensure high-quality, bug-free code (unit tests, integrati
 UI/UX Design to create engaging and user-friendly interfaces
 I'm also open to discussing new features or ideas to make this project more robust and scalable. Whether you're a seasoned developer or just starting out, your contributions are always welcome!
 
-📫 How to reach me: You can reach out via email at ashishsaini2712@gmail.com or connect with me on LinkedIn.
+📫 How to reach me: You can reach out via email at ashishsaini.dev@gmail.com or connect with me on LinkedIn.
 
 😄 Pronouns: He/Him
 
